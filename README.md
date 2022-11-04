@@ -6,9 +6,9 @@
 - Coded in Python
 ---
 ## Python Code
-´´´python
+```python
 pip install pytube
-´´´
+```
 ---
 ## Download
 [Download](https://github.com/mongomangoCZ/MM-youtube-downloader/raw/main/Mongomango%20Youtube%20Downloader%20SETUP.exe)
