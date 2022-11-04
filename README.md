@@ -1,5 +1,5 @@
 # **MM Youtube Downloader**
-## _Youtube Downloader By MONGOMANGO_
+## _By MONGOMANGO_
 ---
 - Platform : Windows
 - Coded in Python
