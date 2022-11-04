@@ -4,6 +4,7 @@
 ---
 - Platform : Windows
 - Coded in Python
+- image
 ---
 ## Python Code
 #### put in CMD
