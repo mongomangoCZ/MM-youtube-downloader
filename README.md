@@ -9,6 +9,7 @@
 #### put in CMD
 ```python
 pip install pytube
+moviepy
 ```
 ---
 ## Download
