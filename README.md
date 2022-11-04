@@ -4,7 +4,8 @@
 ---
 - Platform : Windows
 - Coded in Python
-- image
+---
+## Image
 
 
 ![appimage](https://github.com/mongomangoCZ/MM-youtube-downloader/blob/main/appimage.png)
