@@ -2,3 +2,4 @@
 ## _Youtube Downloader By MONGOMANGO_
 
 ---
+- Platform : Windows
