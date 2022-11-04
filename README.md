@@ -6,6 +6,7 @@
 - Coded in Python
 ---
 ## Python Code
+put in CMD
 ```python
 pip install pytube
 ```
